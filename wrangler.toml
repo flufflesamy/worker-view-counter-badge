@@ -14,3 +14,6 @@ mode = "smart"
 binding = "ViewCounter" # i.e. available in your Worker on env.DB
 database_id = "0869fdd2-22cb-4a07-b87c-92ba1d027a5a" 
 database_name = "ViewCounter"
+
+[observability]
+enabled = true
